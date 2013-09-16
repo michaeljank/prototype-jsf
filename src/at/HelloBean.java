@@ -6,6 +6,7 @@ import java.io.Serializable;
 @ManagedBean
 @SessionScoped
 public class HelloBean implements Serializable {
+	// test
     private String name;
 
     public String getName() {
